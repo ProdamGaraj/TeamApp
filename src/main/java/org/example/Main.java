@@ -6,5 +6,7 @@ public class Main {
     @Async
     public static void main(String[] args) {
         System.out.println("Hello world!!!!!!");
+        var a = 2+2;
+        System.out.println(a);
     }
 }
