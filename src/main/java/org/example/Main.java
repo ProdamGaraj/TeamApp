@@ -5,6 +5,6 @@ import org.springframework.scheduling.annotation.Async;
 public class Main {
     @Async
     public static void main(String[] args) {
-        System.out.println("Hello world!!!!!!");
+        System.out.println("Hello world!!!!!! I don't like java");
     }
 }
